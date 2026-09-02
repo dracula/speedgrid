@@ -1,0 +1,4 @@
+{
+  "dracula-classic": {"background":"#282a36","selection":"#44475a","currentLine":"#6272a4","foreground":"#f8f8f2","purple":"#bd93f9","cyan":"#8be9fd"},
+  "alucard-classic": {"background":"#fffbeb","selection":"#cfcfde","currentLine":"#6c664b","foreground":"#1f1f1f","purple":"#644ac9","cyan":"#036a96"}
+}
