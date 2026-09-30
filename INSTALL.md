@@ -2,9 +2,9 @@
 
 #### Install SpeedGrid
 
-Install the extension for Chrome, Edge, or Firefox from [speedgrid.app/install](https://speedgrid.app/install), or open the signed-in web workspace.
+Install the extension for Chrome, Edge, or Firefox from [speedgrid.app/install](https://speedgrid.app/install), or open your signed-in web workspace.
 
-#### Activate Dracula or Alucard
+#### Activating theme
 
 1. Open **Settings**, then **Appearance**.
 2. Open the **Theme profile** menu.

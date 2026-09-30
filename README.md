@@ -1,39 +1,52 @@
 # Dracula for [SpeedGrid](https://speedgrid.app)
 
-> Dracula Classic and Alucard Classic for a visual new-tab workspace.
+> A dark theme for [SpeedGrid](https://speedgrid.app).
 
-![SpeedGrid using Dracula Classic](./screenshot.png)
+![Screenshot](./screenshot.png)
 
-SpeedGrid is available for Chrome, Edge, and Firefox. Both Dracula Classic and Alucard Classic are built into the product as community themes using the current official specification.
+SpeedGrid is available for Chrome, Edge, and Firefox. Dracula Classic and Alucard Classic are built into the product as community themes.
 
 ## Install
 
-All instructions are available in [INSTALL.md](INSTALL.md). A public overview is available at [speedgrid.app/showcase/dracula](https://speedgrid.app/showcase/dracula).
+All instructions can be found at [draculatheme.com/speedgrid](https://draculatheme.com/speedgrid).
 
-## Palette mapping
+## Theme details
 
-| Dracula role | SpeedGrid surface |
-| --- | --- |
-| Background | Page background |
-| Selection | Bookmark cards and controls |
-| Foreground | Primary interface and bookmark titles |
-| Current Line | Restrained card borders |
-| Purple and Cyan | Interactive accents |
+Both variants follow the current official Dracula color specifications and apply the palette to SpeedGrid as follows:
 
-The exact values used for both variants are documented in [`themes.json`](themes.json).
+| Dracula role    | SpeedGrid surface                     |
+| --------------- | ------------------------------------- |
+| Background      | Page background                       |
+| Selection       | Bookmark cards and controls           |
+| Foreground      | Primary interface and bookmark titles |
+| Current Line    | Restrained card borders               |
+| Purple and Cyan | Interactive accents                   |
 
-## Status
+The exact values used by both variants are documented in [`themes.json`](./themes.json).
 
-This is an independent implementation submitted for Dracula Theme community review. It is not currently accepted, endorsed, or maintained by the Dracula organization.
+## Project status
+
+This implementation has been submitted for Dracula Theme community review. Until it is accepted, it should be considered an independent implementation that is not endorsed or maintained by the Dracula organization.
 
 ## Team
 
-This theme is maintained by [Joey Wright](https://github.com/joeywrightphoto).
+This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/dracula/speedgrid/graphs/contributors).
+
+| [![Joey Wright](https://github.com/joeywrightphoto.png?size=100)](https://github.com/joeywrightphoto) |
+| ----------------------------------------------------------------------------------------------------- |
+| [Joey Wright](https://github.com/joeywrightphoto)                                                     |
 
 ## Community
 
-- [Dracula Theme](https://draculatheme.com)
-- [Dracula Theme discussions](https://github.com/dracula/dracula-theme/discussions)
+Join thousands of vampires using Dracula Theme around the world 🦇
+
+- [X (Twitter)](https://x.com/draculatheme) and [Instagram](https://www.instagram.com/draculatheme) - Follow for tips, news, and fun.
+- [Discord](https://draculatheme.com/discord-invite) - Hang out and chat with the rest of the clan.
+- [GitHub Discussions](https://github.com/dracula/dracula-theme/discussions) - Ask questions and discuss issues.
+
+## Dracula PRO
+
+[![Dracula PRO](./.github/dracula-pro.png)](https://draculatheme.com/pro)
 
 ## License
 
