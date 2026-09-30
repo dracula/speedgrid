@@ -8,7 +8,7 @@ SpeedGrid is available for Chrome, Edge, and Firefox. Dracula Classic and Alucar
 
 ## Install
 
-All instructions can be found at [draculatheme.com/speedgrid](https://draculatheme.com/speedgrid).
+Follow [INSTALL.md](./INSTALL.md) to install SpeedGrid and enable either theme.
 
 ## Theme details
 
@@ -26,7 +26,7 @@ The exact values used by both variants are documented in [`themes.json`](./theme
 
 ## Project status
 
-This implementation has been submitted for Dracula Theme community review. Until it is accepted, it should be considered an independent implementation that is not endorsed or maintained by the Dracula organization.
+This repository is maintained in the Dracula organization. Dracula Classic and Alucard Classic are built into SpeedGrid, so no separate theme download is needed.
 
 ## Team
 
